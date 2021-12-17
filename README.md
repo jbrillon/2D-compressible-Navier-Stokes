@@ -1,10 +1,10 @@
 **Date written: December 2018**
 
-As part of final project for ME 614 (Computational Fluid Dynamics) at Purdue University taught by Professor Scalo of the Mechanical Engineering department. 
+As part of the final project for ME 614 (Computational Fluid Dynamics) at Purdue University taught by Professor Scalo of the Mechanical Engineering department. 
 
 # 2D Compressible Navier-Stokes Solver
 
-Solves the 2D compressible Navier-Stokes equations using finite-difference with a staggered grid arrangement to simulate acoustic waves in a doubly periodic domain. For more details, please refer to the report by clicking [here](https://drive.google.com/file/d/1qocItR1IN5ylLHkofGhHvIjnUkgmUOeU/view?usp=sharing).
+Solves the 2D compressible Navier-Stokes equations using finite-difference with a staggered grid arrangement to simulate acoustic waves in a doubly periodic domain. For more details, please refer to the report by clicking <a href="https://drive.google.com/file/d/1qocItR1IN5ylLHkofGhHvIjnUkgmUOeU/view?usp=sharing" target="_blank">here</a>.
 
 ## Evolution of Pressure in Acoustic Waves
 
