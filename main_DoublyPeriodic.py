@@ -2,7 +2,7 @@
 # Department of Mechanical Engineering, Purdue University
 # ME 614: Computational Fluid Dynamics
 # Fall 2018
-# Final: Compressible Boundary Layer
+# Final: 2D Compressible Navier-Stokes
 # Julien Brillon
 # Python 2.7.15
 #=====================================================

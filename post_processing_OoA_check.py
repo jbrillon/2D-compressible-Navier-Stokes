@@ -1,3 +1,7 @@
+#=====================================================
+# Post-processing script for generating 
+# order-of-accuracy plots
+#=====================================================
 # Import libraries
 import numpy as np # NumPy: contains basic numerical routines
 import scipy # SciPy: contains additional numerical routines to numpy

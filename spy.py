@@ -1,3 +1,6 @@
+#=====================================================
+# Generates colourful spy plots of matrix patterns
+#=====================================================
 # Import libraries
 import numpy as np # NumPy: contains basic numerical routines
 import scipy # SciPy: contains additional numerical routines to numpy
