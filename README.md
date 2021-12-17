@@ -4,7 +4,7 @@ As part of final project for ME 614 (Computational Fluid Dynamics) at Purdue Uni
 
 # 2D Compressible Navier-Stokes Solver
 
-Solves the 2D compressible Navier-Stokes equations using finite-difference with a staggered grid arrangement to simulate acoustic waves in a doubly periodic domain.
+Solves the 2D compressible Navier-Stokes equations using finite-difference with a staggered grid arrangement to simulate acoustic waves in a doubly periodic domain. For more details, please refer to the report by clicking [here](https://drive.google.com/file/d/1qocItR1IN5ylLHkofGhHvIjnUkgmUOeU/view?usp=sharing).
 
 ## Evolution of Pressure in Acoustic Waves
 
