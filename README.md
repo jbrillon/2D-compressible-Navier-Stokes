@@ -17,7 +17,8 @@ The pressure fluctuations of acoustic waves in a doubly periodic domain are show
 
 Below illustrates the expected 2nd-order convergence of the staggered finite-difference scheme is acheived. 
 
-<img src="https://raw.githubusercontent.com/jbrillon/2D-compressible-Navier-Stokes/master/Figures/OoA/DoublyPeriodic/RMS_error_euler_x_ymomentum.png" width="60%"></img>
+<img src="https://raw.githubusercontent.com/jbrillon/2D-compressible-Navier-Stokes/master/Figures/OoA/DoublyPeriodic/RMS_error_euler_x_ymomentum.png" width="45%"></img>
+<img src="https://raw.githubusercontent.com/jbrillon/2D-compressible-Navier-Stokes/master/Figures/OoA/DoublyPeriodic/RMS_error_euler_y_xmomentum.png" width="45%"></img>
 
 ## Staggered Grid Arrangement
 
